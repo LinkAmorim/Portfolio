@@ -6,7 +6,7 @@ Uma versão melhorada do meu primeiro portfólio e com alguns novos recursos, p�
 ## **Imagem da versão antiga**:
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Print%20(Portf%C3%B3lio%20antigo).png?raw=true)
 ## **Ferramentas utilizadas 🛠️**
- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,github,bootstrap)](https://skillicons.dev)
 ## **Melhorias adicionadas 🪛**
 ### **Home/Geral**
 * Loading ao transiocionar para as páginas
@@ -26,8 +26,10 @@ Uma versão melhorada do meu primeiro portfólio e com alguns novos recursos, p�
 * Botões estilizados com acesso ao currículo em pdf por pc e no canva pelo celular
 ### **Projetos**
 * Container com a seção de Projetos em grupos e individuais
+* Molduras estilizadas
+* Redirecionamento por link ao interagir com a imagem
 ## **Extras (Artes)
-* Container com a seção de Artes autorais
+* Container com a seção de Artes autorais ou existente
 
 
 ### **Confira o link 🔗**:-

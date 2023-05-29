@@ -23,18 +23,18 @@
 /* efeito de zoom nos icones */
 
 /* container */
-.container {
-   border: solid darkgray;
-   border-radius: 40px;
+/* .container { 
+   /* border: solid darkgray; */
+   /* border-radius: 40px;
    width: 300px;
-   padding-bottom: 100px;
-   backdrop-filter: blur(3px);
-   max-width: 100%;
-   box-shadow: 4px 4px rgb(0, 0, 0);
+   padding-bottom: 100px; */
+   /* backdrop-filter: blur(3px); */
+   /* max-width: 100%;
+   box-shadow: 4px 4px rgb(0, 0, 0); */
    
    
-   
-  }
+/*    
+  } */
 
   /* container */
 
@@ -42,11 +42,11 @@
   .container2 {
    display: flex;
    justify-content: space-around;
-    /* border: solid rgb(30, 0, 255) 3px;  */
-   width: 1100px;
+     /* border: solid rgb(30, 0, 255) 3px;  */
+   width: 1200px;
    
    flex-wrap: wrap;
-   max-width: 100%;
+   max-width: 105%;
    
    
 
@@ -57,9 +57,9 @@
 
   /* div1 */
 .child {
- /* border: solid darkgray; */
- width:380px;
-   height: 220px;
+ border: solid darkgray; 
+ width:550px;
+   height: 320px;
    margin-top: 90px;
    max-width: 100%;
     

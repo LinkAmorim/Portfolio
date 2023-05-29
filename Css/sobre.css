@@ -91,9 +91,7 @@
 
      
    
-    
-    
-    
+
     
 }
 
@@ -194,22 +192,22 @@
 
 
          /* Estilização do botão */
-.button-style {
-    border: solid rgb(103, 5, 5);
+/* .button-style { */
+    /* border: solid rgb(103, 5, 5); */
     /* background-color: darkslategray; */
-    background-color: rgb(40, 56, 56);
-    border-radius: 30px;
-    display: inline-block;
-    padding: 20px 20px;
+    /* background-color: rgb(40, 56, 56); */
+    /* border-radius: 30px;
+    display: inline-block; */
+    /* padding: 20px 20px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 3px rgb(0, 0, 0);
     cursor: pointer;
     text-transform: uppercase;
     max-width: max-content;
-    font-size: large;
+    font-size: large; */
 
 
-}
+/* } */
 
       /* Estilização do botão */
