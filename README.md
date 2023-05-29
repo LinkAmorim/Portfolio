@@ -24,12 +24,20 @@ Uma versão melhorada do meu primeiro portfólio e com alguns novos recursos, p�
 * Imagem arredondada de perfil
 * Container com a seção "Web developer Skills"
 * Botões estilizados com acesso ao currículo em pdf por pc e no canva pelo celular
+
+![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Bot%C3%B5es%20estilizados.png?raw=true)
 ### **Projetos**
-* Container com a seção de Projetos em grupos e individuais
+* Seção de Projetos em grupos e individuais
 * Molduras estilizadas
 * Redirecionamento por link ao interagir com a imagem
-## **Extras (Artes)
-* Container com a seção de Artes autorais ou existente
 
+![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Moldura%20estilizada.png?raw=true)
+## **Extras (Artes)**
+* Seção de Artes autorais ou existente
+
+![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Moldura%20estilizada%20(artes).png?raw=true)
+
+## **PS**
+O site está passível de receber novas melhorias.
 
 ### **Confira o link 🔗**:-
