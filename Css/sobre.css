@@ -1,0 +1,215 @@
+/* efeito de zoom na foto de perfil */
+.zoom-wrapper3 {
+    /* border: solid red; */
+    width: 300px;
+    border-radius: 8px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.zoom-wrapper3 img {
+    object-fit: cover;
+    transition: transform 0.8s;
+    height: 100%;
+    max-width: 100%;
+}
+
+.zoom-wrapper3:hover img {
+    transform:scale(1.2);
+}
+/* efeito de zoom na foto de perfil */
+
+
+ /* arrendondamento da foto de perfil */
+ .circle {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .circle img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  } 
+ /* arrendondamento da foto de perfil */
+  
+ 
+ 
+ /* container */
+  .container {
+     border: solid darkgray;
+    border-radius: 40px;
+    width: 300px;
+    padding-bottom: 30px;
+    backdrop-filter: blur(3px);
+    max-width: 100%;
+    box-shadow: 4px 4px rgb(0, 0, 0);
+    
+    
+   }
+
+   /* container */
+
+/* segundo container */
+   .container2 {
+    display: flex;
+    justify-content: space-around;
+    /* border: solid rgb(30, 0, 255) 3px; */
+    width: 1100px;
+    
+    flex-wrap: wrap;
+    max-width: 100%;
+    
+    
+
+   }
+
+   /* segundo container */
+
+/* subtitulo abaixo do container */
+.subtitle {
+    /* border: solid red 3px; */
+    max-width: 100%;
+    max-height: 100%;
+    
+  
+}
+/* subtitulo abaixo do container */
+
+
+/* div1 */
+.child {
+     /* border: solid red; */
+   width: 100px;
+   height:100px;
+   margin-top:20px;
+   max-width: 100%;
+
+     
+   
+    
+    
+    
+    
+}
+
+/* div1 */
+
+
+/* efeito de zoom nos icones */
+.zoom-wrapper4 {
+     /* border: solid red; */
+    width: 110px;
+    border-radius: 8px;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+
+.zoom-wrapper4 img {
+    object-fit: cover;
+    transition: transform 0.8s;
+    height: 100%;
+    max-width: 100%;
+    
+}
+
+.zoom-wrapper4:hover img {
+    transform:scale(1.2);
+}
+
+/* efeito de zoom nos icones */
+
+
+
+
+/* container */
+.container3 {
+    /* border: solid darkgray; */
+    border-radius: 40px;
+    height: 320px;
+    
+   
+    
+
+    width: 920px;
+    /* backdrop-filter: blur(3px); */
+    max-width: 100%;
+    /* box-shadow: 4px 4px rgb(0, 0, 0); */
+    
+    
+   }
+
+
+/* Botões */
+
+
+.zoom-wrapper5 {
+     /* border: solid; */
+   width: 420px;
+   height: 124px;
+  
+   border-radius: 900px;
+   max-height: 100%;
+   max-width: 100%;
+
+}
+
+.zoom-wrapper5 img {
+   object-fit: cover;
+   transition: transform 0.8s;
+   height: 100%;
+   max-width: 100%;
+   
+}
+
+.zoom-wrapper5:hover img {
+   transform:scale(1.08);
+}
+
+/* Botões */
+
+.title {
+    /* Estilos de título h1 */
+    text-align: center;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  /* Estilos de título h1 */
+
+
+
+/* Animação hover do botão */
+.button-style:hover {
+    background: rgb(43, 10, 43)
+    
+         }
+
+         /* Animação hover do botão */
+
+
+
+         /* Estilização do botão */
+.button-style {
+    border: solid rgb(103, 5, 5);
+    /* background-color: darkslategray; */
+    background-color: rgb(40, 56, 56);
+    border-radius: 30px;
+    display: inline-block;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px rgb(0, 0, 0);
+    cursor: pointer;
+    text-transform: uppercase;
+    max-width: max-content;
+    font-size: large;
+
+
+}
+
+      /* Estilização do botão */
