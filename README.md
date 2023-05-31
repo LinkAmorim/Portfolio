@@ -1,7 +1,7 @@
-# Portfólio 🧑‍💻
+# Portifólio 🧑‍💻
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Print%20(Portf%C3%B3lio%20atual).png?raw=true)
 ## **Sobre o site 📝**
-Uma versão melhorada do meu primeiro portfólio e com alguns novos recursos, páginas e informações adicionadas.
+Uma versão melhorada do meu primeiro portifólio e com alguns novos recursos, páginas e informações adicionadas.
  A ideia de design ainda se mantem a mesma da ideia original.
 ## **Imagem da versão antiga**:
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Print%20(Portf%C3%B3lio%20antigo).png?raw=true)
