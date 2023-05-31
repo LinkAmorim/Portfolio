@@ -40,4 +40,4 @@ Uma versão melhorada do meu primeiro portifólio e com alguns novos recursos, p
 ## **PS**
 O site está passível de receber novas melhorias.
 
-### **Confira o link 🔗**: https://linkamorim.github.io/Portfolio/
+### **Confira o link 🔗**: https://linkamorim.github.io/Portifolio/
