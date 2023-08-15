@@ -33,7 +33,7 @@ Uma versão melhorada do meu primeiro portifólio e com alguns novos recursos, p
 
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Moldura%20estilizada.png?raw=true)
 ## **Extras (Artes)**
-* Seção de Artes autorais ou existente
+* Seção de Artes autorais ou FanArts
 
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Moldura%20estilizada%20(artes).png?raw=true)
 
