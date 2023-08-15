@@ -1,7 +1,7 @@
 //Script da tela de loading com valor que define o tempo de exibição
 setTimeout(function() {
     document.getElementById('load').style.display = 'none'
-  }, 500);
+  }, 900);
 //relogio 
   const showTimeNow = () =>{
 
