@@ -1,4 +1,5 @@
 # Portifólio 🧑‍💻
+### **Confira o link 🔗**: https://linkamorim.github.io/Portifolio/
 ![image](https://github.com/LinkAmorim/Portfolio/blob/master/Imagens%20para%20o%20Readme/Print%20(Portf%C3%B3lio%20atual).png?raw=true)
 ## **Sobre o site 📝**
 Uma versão melhorada do meu primeiro portifólio e com alguns novos recursos, páginas e informações adicionadas.
@@ -40,4 +41,3 @@ Uma versão melhorada do meu primeiro portifólio e com alguns novos recursos, p
 ## **PS**
 O site está passível de receber novas melhorias.
 
-### **Confira o link 🔗**: https://linkamorim.github.io/Portifolio/
